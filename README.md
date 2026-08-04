@@ -58,6 +58,13 @@ Examples:
 | Date | Topic | Problem | Difficulty | Status |
 |------|-------|---------|------------|--------|
 | YYYY-MM-DD | Python Basics | Time Complexity Notes | - | ⏳ In Progress |
+| 2026-07-31 | Python Basics | Time/Space Complexity (concept drills) | - | ✅ Solved |
+| 2026-08-01 | Python Basics | Two Sum | Easy | ✅ Solved |
+| 2026-08-01 | Python Basics | Group Anagrams | Medium | ✅ Solved |
+| 2026-08-01 | Python Basics | Majority Element | Easy | ✅ Solved |
+| 2026-08-01 | Python Basics | Valid Anagram (2 approaches) | Easy | ✅ Solved |
+| 2026-08-01 | Python Basics | Sliding Window Maximum | Medium | ✅ Solved |
+| 2026-08-01 | Python Basics | Custom Stack + Queue | Easy | ✅ Solved |
 
 **Status legend:** ✅ Solved &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Attempted (revisit) &nbsp;|&nbsp; 🔁 Revised
 
