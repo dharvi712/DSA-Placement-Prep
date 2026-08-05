@@ -6,3 +6,6 @@ Solved problems in this folder:
 
 | File | Problem | Difficulty | Status |
 |------|---------|------------|--------|
+        palindrome easy.       solved
+        remove duplicate.      solved
+        water container.       solved
