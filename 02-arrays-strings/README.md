@@ -9,6 +9,6 @@ Solved problems in this folder:
         palindrome easy.       solved
         remove duplicate.      solved
         water container.       solved
-        leetcode 11
-        leetcode 29
-        leetcode 126
+        leetcode 11            solved
+        leetcode 29.           solved
+        leetcode 126.          solved
