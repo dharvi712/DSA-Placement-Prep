@@ -65,6 +65,12 @@ Examples:
 | 2026-08-01 | Python Basics | Valid Anagram (2 approaches) | Easy | ✅ Solved |
 | 2026-08-01 | Python Basics | Sliding Window Maximum | Medium | ✅ Solved |
 | 2026-08-01 | Python Basics | Custom Stack + Queue | Easy | ✅ Solved |
+| 2026-08-05 | Arrays & Strings | Valid Palindrome | Easy | ✅ Solved |
+| 2026-08-05 | Arrays & Strings | Remove Duplicates from Sorted Array | Easy | ✅ Solved |
+| 2026-08-05 | Arrays & Strings | Twin Towers (custom) | Medium | ✅ Solved |
+| 2026-08-05 | Arrays & Strings | Target-Sum Subarray (custom) | Medium | ✅ Solved |
+| 2026-08-05 | Arrays & Strings | Container With Most Water | Medium | ⏳ In Progress |
+| 2026-08-05 | Arrays & Strings | Move Zeroes | Easy | ⏳ In Progress |
 | 2026-09-01 | Python Basics | Palindrome+Container With Most Water+intution building| Easy | ✅ Solved |
 
 **Status legend:** ✅ Solved &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Attempted (revisit) &nbsp;|&nbsp; 🔁 Revised
