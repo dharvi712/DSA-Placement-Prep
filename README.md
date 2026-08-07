@@ -65,6 +65,7 @@ Examples:
 | 2026-08-01 | Python Basics | Valid Anagram (2 approaches) | Easy | ✅ Solved |
 | 2026-08-01 | Python Basics | Sliding Window Maximum | Medium | ✅ Solved |
 | 2026-08-01 | Python Basics | Custom Stack + Queue | Easy | ✅ Solved |
+| 2026-09-01 | Python Basics | Palindrome+Container With Most Water+intution building| Easy | ✅ Solved |
 
 **Status legend:** ✅ Solved &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Attempted (revisit) &nbsp;|&nbsp; 🔁 Revised
 
