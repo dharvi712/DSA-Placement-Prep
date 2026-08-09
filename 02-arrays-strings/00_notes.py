@@ -168,5 +168,5 @@ NEXT SESSION
 - Finish Container With Most Water (if/else structure, both branches)
 - Move Zeroes (slow/fast pattern, slow tracks "next non-zero slot")
 - More Two Pointers practice: Two Sum II, Squares of Sorted Array,
-  Reverse String, 3Sum
+  Reverse String, 3Sum ,two sum sorted ii
 """
