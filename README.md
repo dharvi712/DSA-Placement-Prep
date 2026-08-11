@@ -71,6 +71,7 @@ Examples:
 | 2026-08-05 | Arrays & Strings | Target-Sum Subarray (custom) | Medium | ✅ Solved |
 | 2026-08-08 | Arrays & Strings | Container With Most Water (LC #11) | Medium | ✅ Solved |
 | 2026-08-08 | Arrays & Strings | Move Zeroes (LC #283) | Easy | ✅ Solved |
+| 2026-08-09 | Arrays & Strings | Rotate Array (LC #189) | Medium | ✅ Solved |
 | 2026-09-01 | Python Basics | Palindrome+Container With Most Water+intution building| Easy | ✅ Solved |
 
 **Status legend:** ✅ Solved &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Attempted (revisit) &nbsp;|&nbsp; 🔁 Revised
