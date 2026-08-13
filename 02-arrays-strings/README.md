@@ -15,4 +15,4 @@ Date | File | Problem | Difficulty | Status |
         leetcode 126.          solved 
         redid all the question 
         found bugs
-        
+        friction in writing code
