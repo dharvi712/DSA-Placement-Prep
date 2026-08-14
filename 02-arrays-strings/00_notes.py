@@ -1,4 +1,5 @@
-"""
+ """
+ revide all
 Topic     : Arrays & Strings - Day 4 Notes
 Date      : 2026-08-05
 Type      : Concept notes + debugging lessons (small things that tripped
@@ -170,3 +171,4 @@ NEXT SESSION
 - More Two Pointers practice: Two Sum II, Squares of Sorted Array,
   Reverse String, 3Sum ,two sum sorted ii
 """
+revise
