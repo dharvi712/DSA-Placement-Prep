@@ -12,4 +12,7 @@ Date | File | Problem | Difficulty | Status |
         water container.       solved
         leetcode 11            solved
         leetcode 29.           solved
-        leetcode 126.          solved
+        leetcode 126.          solved 
+        redid all the question 
+        found bugs
+        friction in writing code
