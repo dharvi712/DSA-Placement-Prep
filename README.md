@@ -72,6 +72,11 @@ Examples:
 | 2026-08-08 | Arrays & Strings | Container With Most Water (LC #11) | Medium | ✅ Solved |
 | 2026-08-08 | Arrays & Strings | Move Zeroes (LC #283) | Easy | ✅ Solved |
 | 2026-08-09 | Arrays & Strings | Rotate Array (LC #189) | Medium | ✅ Solved |
+| 2026-08-12 | Arrays & Strings | Valid Anagram (redo, Day 14) | Easy | ✅ Solved |
+| 2026-08-12 | Arrays & Strings | Valid Palindrome (redo, Day 14) | Easy | ✅ Solved |
+| 2026-08-12 | Arrays & Strings | Group Anagrams (redo, Day 14) | Medium | ✅ Solved |
+| 2026-08-12 | Arrays & Strings | Two Sum (redo, Day 14) | Easy | ❌ Attempted (revisit) |
+| 2026-08-12 | Arrays & Strings | Missing Number (LC #268, Day 14) | Easy | ⏳ In Progress |
 | 2026-09-01 | Python Basics | Palindrome+Container With Most Water+intution building| Easy | ✅ Solved |
 
 **Status legend:** ✅ Solved &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Attempted (revisit) &nbsp;|&nbsp; 🔁 Revised
