@@ -76,7 +76,7 @@ Examples:
 | 2026-08-12 | Arrays & Strings | Valid Palindrome (redo, Day 14) | Easy | ✅ Solved |
 | 2026-08-12 | Arrays & Strings | Group Anagrams (redo, Day 14) | Medium | ✅ Solved |
 | 2026-08-12 | Arrays & Strings | Two Sum (redo, Day 14) | Easy | ❌ Attempted (revisit) |
-| 2026-08-12 | Arrays & Strings | Missing Number (LC #268, Day 14) | Easy | ⏳ In Progress |
+| 2026-08-12 | Arrays & Strings | Missing Number (LC #268) | Easy | ✅ Solved |
 | 2026-09-01 | Python Basics | Palindrome+Container With Most Water+intution building| Easy | ✅ Solved |
 
 **Status legend:** ✅ Solved &nbsp;|&nbsp; ⏳ In Progress &nbsp;|&nbsp; ❌ Attempted (revisit) &nbsp;|&nbsp; 🔁 Revised
