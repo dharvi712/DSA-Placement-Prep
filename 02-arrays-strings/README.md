@@ -16,3 +16,4 @@ Date | File | Problem | Difficulty | Status |
         redid all the question 
         found bugs
         friction in writing code
+daily leetcode challenge
