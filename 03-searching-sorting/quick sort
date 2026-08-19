@@ -1,0 +1,7 @@
+quick sort
+Quick Sort is a fast, efficient sorting algorithm that uses a divide-and-conquer approach. It picks a value called a pivot, splits the list so smaller numbers go to 
+the left and larger numbers go to the right, and then repeats the process on each split part.How It WorksPick a pivot: Choose one item from your list (like the first, 
+last, or a random one).Partition: Move numbers around. Put all numbers smaller than the pivot to its left. Put all numbers bigger than the pivot to its right.The pivot's 
+s
+pot: The pivot is now in its final, correct place in the sorted list.Recursion: 
+Do the same steps again for the left side group and the right side group.Stop: Stop when a group has zero or one item, because that small part is already sorted.
